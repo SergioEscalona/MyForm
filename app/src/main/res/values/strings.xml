@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyForm</string>
+    <string name="edit_text_name">Introduce tu nombre</string>
+    <string name="button_next">Siguiente</string>
+    <string name="TextView_welcome">Bienvenido a MyForm :)</string>
+    <string name="text_radio_greeter">Saludo</string>
+    <string name="text_radio_farewell">Despedida</string>
+    <string name="share_button">Comparte!</string>
+</resources>
